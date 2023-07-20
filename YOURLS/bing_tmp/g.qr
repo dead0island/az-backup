@@ -1,0 +1,29 @@
+<!DOCTYPE html><html lang="zh-cn"><head><meta charset="UTF-8"><title>二维码</title><link type="text/css" href="//static.clewm.net/cli/flatkit/assets/material-design-icons/material-design-icons.css" rel="stylesheet" media="all" /><link type="text/css" href="//static.clewm.net/cli/flatkit/assets/font-awesome/css/font-awesome.min.css" rel="stylesheet" media="all" /><link type="text/css" href="//static.clewm.net/cli/css/qrcode_plugins.css?v=20230529" rel="stylesheet" media="all" /><link rel="stylesheet" href="//static.clewm.net/cli/css/user_nav_plugins_v2.css?v=20180605"><link rel="stylesheet" href="//static.clewm.net/cli/flatkit/assets/styles/app.min.css?v=20210121"><script src="//static.clewm.net/cli/js/lib/jquery191.js"></script><script src="//static.clewm.net/static/js/lib/sea_89b3a8e.js"></script><script src="//static.clewm.net/static/js/common_217f6d7.js"></script><script src="//static.clewm.net/cli/js/lib/plug/slides.min.jquery.js"></script><script src="//static.clewm.net/static/js/qrcodeapi_e8eadd0.js"></script><script>
+var qrurl="http://20.187.65.141:81/g";
+var qrcode_plugins_img ="//qr.api.cli.im/newqr/create?data=http%3A%2F%2F20.187.65.141%3A81%2Fg&level=Q&transparent=false&bgcolor=%23FFFFFF&forecolor=%2F%2Fstatic.clewm.net%2Fcli%2Fimages%2Fbeautify%2Fforecolor1227%2F28.png&blockpixel=12&marginblock=2&logourl=&size=400&text=&logoshape=no&fontsize=30&fontfamily=msyh.ttf&fontcolor=&incolor=&outcolor=&background=&qrcode_eyes=&wper=0&hper=0&lper=0&tper=0&eye_use_fore=1&qrpad=10&kid=cliim&key=1468649b39c8a3355aa464ed450d72b4";
+</script></head><style>
+.slides_container{
+padding-left:0px;
+}
+.qrcode_plugin_pagination{
+padding-left: 0px;
+bottom:-9px;
+}
+.qrcode_plugins_slides{
+padding:0px;
+}
+.api_downother,.api_mahua{
+width: 50% !important;
+}
+.qrcode_plugins_box .qrcode_plugins_box_body .qrcode_plugins_download:hover{
+color: #fff;
+}
+</style><body><div class="qrcode_plugins_bg" id="qrcode_plugins"></div><div class="qrcode_plugins_box"><div class="qrcode_plugins_box_body"><img src="//qr.api.cli.im/newqr/create?data=http%3A%2F%2F20.187.65.141%3A81%2Fg&level=Q&transparent=false&bgcolor=%23FFFFFF&forecolor=%2F%2Fstatic.clewm.net%2Fcli%2Fimages%2Fbeautify%2Fforecolor1227%2F28.png&blockpixel=12&marginblock=2&logourl=&size=400&text=&logoshape=no&fontsize=30&fontfamily=msyh.ttf&fontcolor=&incolor=&outcolor=&background=&qrcode_eyes=&wper=0&hper=0&lper=0&tper=0&eye_use_fore=1&qrpad=10&kid=cliim&key=1468649b39c8a3355aa464ed450d72b4" id="qrcode_plugins_img" class="qrcode_plugins_img" style="background: rgb(255, 255, 255);width: 200px;"><span class="qrcode_plugins_change_btn" id="qrcode_plugins_change_btn">换一个美化模板</span><div class="qrcode_plugins_slides" id="slides"><ul class="slides_container"></ul><a href="javascript:;" class="prev"><i class="fa fa-chevron-left"></i></a><a href="javascript:;" class="next"><i class="fa fa-chevron-right"></i></a></div><a href="javascript:;" class="qrcode_plugins_download green btn">下载<span>400*400像素</span></a><div class="clearfix"><a href="javascript:;" class="qrcode_plugins_downother api_downother">下载其他格式</a><a href="javascript:;" class="qrcode_plugins_mahua api_mahua">快速美化</a></div></div><div class="bottom-tips">二维码内容由用户传入参数生成，请自行甄别风险。</div></div></body></html><script>
+  var _hmt = _hmt || [];
+  (function() {
+    var hm = document.createElement('script');
+          hm.src = '//hm.baidu.com/hm.js?cb508e5fef81367bfa47f4ec313bf68c';
+        var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(hm, s);
+  })();
+      </script><script src="//static.clewm.net/public/cli_analytics.js"></script>
