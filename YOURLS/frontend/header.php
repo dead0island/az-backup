@@ -73,6 +73,7 @@ background-color: rgba(255,255,255,0.3)
 /*底话居中*/
 .fw-light {
 	margin: 0 auto;
+	font-size: 18px;
 }
 </style>
     </head>

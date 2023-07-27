@@ -132,7 +132,7 @@
 					<?php endif; ?>
 				</div>
 				<div class="d-flex flex-column flex-md-row align-items-center my-3">
-					<span class="text-white fw-light">&copy; <?php echo date("Y-m-d H:i:s", time()+8*60*60); ?> <?php echo "只因你太美" ?></span>
+					<span class="text-white fw-light"><span id="jinrishici-sentence">正在加载今日诗词....</span><script src="https://sdk.jinrishici.com/v2/browser/jinrishici.js" charset="utf-8"></script></span>
 					<!--<div class="ms-3">
 						<?php foreach ($footerLinks as $key => $val): ?>
 							<a class="bold-link me-3 text-white text-decoration-none" href="<?php echo $val ?>"><span><?php echo $key ?></span></a>
