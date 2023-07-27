@@ -170,5 +170,14 @@ var granimInstance = new Granim({
 <!--下框去边框-->
 document.getElementsByClassName("mt-2 card card-body")[0].style="border:0px"
 </script>
+<!--替换默认示例网址-->
+<script src="https://sdk.jinrishici.com/v2/browser/jinrishici.js" charset="utf-8"></script>
+<script type="text/javascript">
+  jinrishici.load(function(result) {
+    var sentence = document.querySelector("#url")
+var dynasty = result.data.origin.dynasty
+var wanzheng = result.data.content + '——' + result.data.origin.author + '《' + result.data.origin.title + '》'
+sentence.setAttribute('placeholder',wanzheng)});
+</script>          
 </body>
 </html>
