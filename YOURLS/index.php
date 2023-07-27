@@ -132,7 +132,7 @@
 					<?php endif; ?>
 				</div>
 				<div class="d-flex flex-column flex-md-row align-items-center my-3">
-					<span class="text-white fw-light"><span id="jinrishici-sentence">正在加载今日诗词....</span><script src="https://sdk.jinrishici.com/v2/browser/jinrishici.js" charset="utf-8"></script></span>
+					<span class="text-white fw-light"></span>
 					<!--<div class="ms-3">
 						<?php foreach ($footerLinks as $key => $val): ?>
 							<a class="bold-link me-3 text-white text-decoration-none" href="<?php echo $val ?>"><span><?php echo $key ?></span></a>
@@ -170,7 +170,7 @@ var granimInstance = new Granim({
 <!--下框去边框-->
 document.getElementsByClassName("mt-2 card card-body")[0].style="border:0px"
 </script>
-<!--替换默认示例网址-->
+<!--一言诗词替换默认示例网址-->
 <script src="https://sdk.jinrishici.com/v2/browser/jinrishici.js" charset="utf-8"></script>
 <script type="text/javascript">
   jinrishici.load(function(result) {
