@@ -63,12 +63,12 @@ body {
 .card {
 	background-color: rgba(255,255,255,0.3)!important;
   backdrop-filter: saturate(180%) blur(20px);
-  -webkot-backdrop-filter: saturate(180%) blur(20px);
+  -webkit-backdrop-filter: saturate(180%) blur(20px);
 }
 #url {
 background-color: rgba(255,255,255,0.3)
   backdrop-filter: saturate(180%) blur(20px);
-  -webkot-backdrop-filter: saturate(180%) blur(20px);
+  -webkit-backdrop-filter: saturate(180%) blur(20px);
 }
 /*底话居中*/
 .fw-light {
