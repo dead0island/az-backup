@@ -37,7 +37,7 @@ define( 'YOURLS_DB_PREFIX', 'yourls_' );
  ** All lowercase, no trailing slash at the end.
  ** If you define it to "http://sho.rt", don't use "http://www.sho.rt" in your browser (and vice-versa)
  ** To use an IDN domain (eg http://héhé.com), write its ascii form here (eg http://xn--hh-bjab.com) */
-define( 'YOURLS_SITE', 'http://s.bing.hz.cz' );
+define( 'YOURLS_SITE', 'https://s.bling.rr.nu' );
 
 /** YOURLS language
  ** Change this setting to use a translation file for your language, instead of the default English.
